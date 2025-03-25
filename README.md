@@ -6,8 +6,8 @@ Objective: Enhance solar panel efficiency using computer vision techniques to de
 ## Problem Statement
 - The efficiency of solar panels is significantly affected by environmental factors such as dust accumulation, leading to reduced energy output.
 - Traditional methods for monitoring and cleaning solar panels:
-     Manual inspection: Time-consuming, labor-intensive, and prone to human error.
-     Automated cleaning systems: Require periodic cleaning regardless of actual dust levels, increasing operational costs.
+     - Manual inspection: Time-consuming, labor-intensive, and prone to human error.
+     - Automated cleaning systems: Require periodic cleaning regardless of actual dust levels, increasing operational costs.
 - A lack of efficient, real-time, and cost-effective methods for identifying dust accumulation necessitates a smarter solution.
 ## Methodology for - Solar Panel Dust Prediction
 1. Image Acquisition
