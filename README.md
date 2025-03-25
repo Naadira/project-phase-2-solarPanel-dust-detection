@@ -2,6 +2,7 @@
 ## Introduction
 Solar energy is a clean and sustainable power source, but its efficiency is often reduced due to dust accumulation on solar panels.
 This project addresses the challenge of dust detection to maintain optimal solar panel performance.
+
 Objective: Enhance solar panel efficiency using computer vision techniques to detect and quantify dust.
 ## Problem Statement
 - The efficiency of solar panels is significantly affected by environmental factors such as dust accumulation, leading to reduced energy output.
