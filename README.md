@@ -3,7 +3,7 @@
 Solar energy is a clean and sustainable power source, but its efficiency is often reduced due to dust accumulation on solar panels.
 This project addresses the challenge of dust detection to maintain optimal solar panel performance.
 Objective: Enhance solar panel efficiency using computer vision techniques to detect and quantify dust.
-## Methodology for - Solar Dust Panel Prediction
+## Methodology for - Solar Panel Dust Prediction
 1. Image Acquisition
 2. Data Preprocessing
 3. Feature Extraction
